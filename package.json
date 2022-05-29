@@ -1,0 +1,11 @@
+{
+  "name": "hello-redis-pub-sub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lifez/hello-redis-pub-sub.git",
+  "author": "Phawin <lifez999@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^4.1.0"
+  }
+}
